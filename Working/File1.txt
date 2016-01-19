@@ -6,3 +6,4 @@ This line from git clone
 This line is the same
 I need something to handle both lines...
 line1
+Merge changes? something like that
