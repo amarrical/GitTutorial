@@ -5,4 +5,5 @@ This line from Git tutorial
 This line from git clone
 This line is the same
 I need something to handle both lines...
+line2
 line1
