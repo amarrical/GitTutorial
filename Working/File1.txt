@@ -1,5 +1,7 @@
 Initial file
 Can everyone read this?
 Save something
+This line from Git tutorial
 This line from git clone
 This line is the same
+I need something to handle both lines...
