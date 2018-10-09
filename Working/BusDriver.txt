@@ -2,5 +2,6 @@ Bus Driver:
 Annual Pay: $35k
 One who drives buses.
 The Busses are yellow.
-the snark is deserved.
+This line will cause a merge conflict.
+This needs to be between the two.
 I don't care what I write here because it's for demonstaration only.
