@@ -1,2 +1,3 @@
 Fireman:
+Annual Pay: $40k
 He who fights fires
