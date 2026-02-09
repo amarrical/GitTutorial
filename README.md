@@ -1,2 +1,3 @@
-Tutorial area to learn about git
+# Tutorial area to learn about git
 Making another change on masteer
+- Testing a conflict
