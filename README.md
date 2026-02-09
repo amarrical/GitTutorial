@@ -1,2 +1,2 @@
 Tutorial area to learn about git
-Making another change on masteer
+Making another change on master
